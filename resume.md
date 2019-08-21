@@ -67,7 +67,7 @@ Computer Science Bachelor’s degree.
 
 ### Beer Em Up (Steam Published Game)
 
-#### October 2017 – July 2018
+__October 2017 – July 2018__
 
 #### Overview 
 
@@ -86,11 +86,12 @@ Associated with: ESAT (Final Project).
 
 •	Final Boss with different attack mechanics (Beam, wave and enemy spawning).
 
-* **Link:**<a href="https://store.steampowered.com/app/945880/Beerem_Up/"> https://store.steampowered.com/app/945880/Beerem_Up/</a>
+* **Link:**
+<a href="https://store.steampowered.com/app/945880/Beerem_Up/">https://store.steampowered.com/app/945880/Beerem_Up/</a>
 
 ### CPU Rasterizer in Raspberry Pi 3
 
-#### May 2018 – June 2018
+__May 2018 – June 2018__
 
 #### Overview
 
