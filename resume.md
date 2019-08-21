@@ -4,102 +4,129 @@ title: Resumé
 tags: resume
 permalink: /resume/
 ---
-# Jonathon Belotti
+# Luis Javier Sánchez Sánchez
 
 <div id="webaddress">
-<a href="mailto:jonathon.bel.melbourne@gmail.com">jonathon.bel.melbourne@gmail.com</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a>
+<a href="mailto:luisja@dominiointeractivo.com">luisja@dominiointeractivo.com</a>
+<!-- |
+<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a> 
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a>
+-->
 </div>
 
 
 ## Experience
 
-`2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+`2012-2013`
+__Waiter - O Potiño Restaurant, Madrid (Spain)__
 
-`2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
 
-`2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
+`2013-2014`
+__Administrative - CitiMarine, Miami (USA)__
+Supporting basic administrative duties for a start up of family based company providing nautical equipment and boats during my last year of high school.
 
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
+
+`2015 -  Currently`
+__Community & Web Manager - Dominio Interactivo (Spain)__
+•	Responsible for Web content and Social Media communications in several websites managed by Dominio Interactivo Consultancy in particular related to Sports Clubs.
+•	Weekly deliveries of news, football matches chronicles, sports events, while managing social media activity and coordination.
+•	Website content management services in programming corporate images of the football club, look & feek and layout with branding guidelines.
+•	Database management for stock of players and families for several departments of the football club (Social, Sport, Financial).
+•	Management of monthly newsletter for internal and external communication in coordination with Sports manager and CEO.
+
 
 ## Education
 
-`2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
+`2000 - 2014`
+__Primary School & ESO – Ntra Señora de las Maravillas & Cristo Rey - Madrid (Spain)__
 
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
+`2014 - 2015`
+__Ronald Reagan Senior High - Miami (USA)__
+High School degree.
 
-`2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
+`2015 - 2018`
+__ESAT - Valencia (Spain)__
+Higher National Diploma (HND) in video games programming.
 
-`2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
 
-## University Leadership & Involvement
+## Personal Projects
 
-`2016-`
-__President, Computer Science & IT Society__ Rebranded the club, completed its website and have set up new student engagement initiatives.
+### Beer Em Up (Steam Published Game)
+#### October 2017 – July 2018
+#### Overview 
 
-`2014-15`
-__Lead Investment & IT Officer, Foresight Investment__ With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
+Beat ‘em up local multiplayer game (2 players) built in Unreal Engine 4 and published on Steam. 
+Associated with: ESAT (Final Project).
 
-`2016-`
-__Founder & Vice President - RMIT Programming Club__ Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
 
-## Projects
+#### Contributions
 
-### Insults
+•	Adaptative Music and Sound system implementation using FMOD API and FMOD Low Level in C++.
+•	A full working character (Root Motion based) for the prototype.
+•	Level loading and level transitions optimizing between UE map layers for improved  performance.
+•	Final Boss with different attack mechanics (Beam, wave and enemy spawning).
 
-Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.
+Link: <a href="https://store.steampowered.com/app/945880/Beerem_Up/">https://store.steampowered.com/app/945880/Beerem_Up/</a>
 
-### aimacode/aima-(java|python)
-Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).
+### CPU Rasterizer in Raspberry Pi 3
+#### May 2018 – June 2018
+#### Overview
 
-### sudkamp-langs-machines=(java|python)
+Small CPU based rasterizer of convex meshes built in C++ for Raspberry Pi 3, with special emphasis in applying diverse optimization techniques.
 
-Implementing computing theory algorithms from Sudkamp’s Languages and Machines textbook in Python and Java.
-
-__* Please see my Github profile for other projects and pull-request contributions.__
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+Associated with: ESAT (Low Level and Optimization)
 
 ## Technical
 
-* **Python**
-* **Ruby**
-* **Java**
-* Git
-* Web Applications & APIs
-* Data Engineering
-* Algorithm Design
-* Scripting
+### Programming Languages
 
+* **C++**
+* **C**
+* **C#**
+* GLSL
+* ARM Assembly
+* Java
+* Swift
+* HTML
+* CSS
+
+### Source Control
+
+* **Git**
+* **Perforce**
+
+### Game Development
+
+* **Unreal Engine 4**
+* **Unity3D**
+
+### 3D Graphics
+
+* OpenGL 3.X
+
+### Debugging
+
+* **Visual Studio**
+* Render Doc
+
+### Other Skills
+
+* **SCRUM**
+* Photo editing
+
+## Languages
+
+* **English** (Profesional Proficiency)
+* **Spanish** (Native Proficiency)
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:luisja@dominiointeractivo.com">luisja@dominiointeractivo.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://www.linkedin.com/in/luis-javier-sanchez-sanchez">LinkedIn</a><br />
+<!--
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
+-->
 
 <!-- ### Footer
 

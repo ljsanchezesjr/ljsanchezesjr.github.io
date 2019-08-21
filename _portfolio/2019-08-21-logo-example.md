@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post-wide
 hero-bg-color: "#000"
@@ -25,3 +26,4 @@ progress: 90
   <img style="width:50%" src="/images/portfolio/personal-logo/3.png" alt="">
   <img style="width:50%" src="/images/portfolio/personal-logo/4.png" alt="">
 </div>
+-->

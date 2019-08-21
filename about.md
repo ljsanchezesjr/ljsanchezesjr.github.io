@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 tags: about
 flicker: true
-headshot: /images/headshot.jpg
+headshot: /images/headshot.jpeg
 ---
 
 Last year Bachelor’s computer science student in Teesside University with a HND degree in video games programming. Significant working experience in order to help my parents during my student career focused in community & web management responsibilities for various companies.
