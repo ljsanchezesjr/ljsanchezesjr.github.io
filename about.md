@@ -7,7 +7,11 @@ flicker: true
 headshot: /images/headshot.jpg
 ---
 
-I am a final year games development student (programmer) in Teesside University. 
+Last year Bachelor’s computer science student in Teesside University with a HND degree in video games programming. Significant working experience in order to help my parents during my student career focused in community & web management responsibilities for various companies.
+International background since liven in USA, Spain and the UK. Solid academic training and proven track record in working and studying in a simultaneous manner, managing professional tasks while delivering academic projects within an agile methodology environment (SCRUM).
+
+
+<!--
 
 {% if site.show_talks_section %}
 ## Talks
@@ -21,6 +25,7 @@ I am a final year games development student (programmer) in Teesside University.
 //- Put something here!
 {% endif %}
 
+-->
 
 <style>
 .post-header, #talks, #workshops {
