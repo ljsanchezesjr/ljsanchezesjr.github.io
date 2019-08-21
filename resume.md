@@ -144,7 +144,7 @@ Associated with: ESAT (Low Level and Optimization)
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:luisja@dominiointeractivo.com">luisja@dominiointeractivo.com</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:luisja@dominiointeractivo.com">luisja<br/>@dominiointeractivo.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://www.linkedin.com/in/luis-javier-sanchez-sanchez">LinkedIn</a><br />
 
 <!-- ### Footer
