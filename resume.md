@@ -20,6 +20,8 @@ permalink: /resume/
 
 `2015-`
 
+
+
 `Currently`
 
 __Community & Web Manager - Dominio Interactivo (Spain)__
