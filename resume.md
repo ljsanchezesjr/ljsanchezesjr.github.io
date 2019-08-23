@@ -18,17 +18,10 @@ permalink: /resume/
 
 ## Experience
 
-`2012-`
-__Waiter - O Potiño Restaurant, Madrid (Spain)__
-
-
-`2014-`
-__Administrative - CitiMarine, Miami (USA)__
-
-Supporting basic administrative duties for a start up of family based company providing nautical equipment and boats during my last year of high school.
-
-
 `2015-`
+
+`Currently`
+
 __Community & Web Manager - Dominio Interactivo (Spain)__
 
 •	Responsible for Web content and Social Media communications in several websites managed by Dominio Interactivo Consultancy in particular related to Sports Clubs.
@@ -41,26 +34,35 @@ __Community & Web Manager - Dominio Interactivo (Spain)__
 
 •	Management of monthly newsletter for internal and external communication in coordination with Sports manager and CEO.
 
+`2014-`
+
+__Administrative - CitiMarine, Miami (USA)__
+
+Supporting basic administrative duties for a start up of family based company providing nautical equipment and boats during my last year of high school.
 
 ## Education
 
-`2000-`
-__Primary School & ESO – Ntra Señora de las Maravillas & Cristo Rey - Madrid (Spain)__
+`2018-`
 
-`2014-`
-__Ronald Reagan Senior High - Miami (USA)__
+__Teesside University - Middlesbrough (UK)__
 
-High School degree.
+Computer Science Bachelor’s degree.
 
 `2015-`
+
 __ESAT - Valencia (Spain)__
 
 Higher National Diploma (HND) in video games programming.
 
-`2018-`
-__Teesside University - Middlesbrough (UK)__
+`2014-`
 
-Computer Science Bachelor’s degree.
+__Ronald Reagan Senior High - Miami (USA)__
+
+High School degree.
+
+`2000-`
+
+__Primary School & ESO – Ntra Señora de las Maravillas & Cristo Rey - Madrid (Spain)__
 
 
 ## Personal Projects
