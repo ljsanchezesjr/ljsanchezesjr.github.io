@@ -21,9 +21,32 @@ progress: 30
 	Itch.io entry: <a href="https://santimod.itch.io/crunch-culture" target="new_"> here </a>.
 </p>
 
+<div class="responsive">
+	<div class="gallery">
+		<img src="/images/portfolio/crunch-culture/1.jpg" alt="">
+	</div>
+</div>
+<div class="responsive">
+	<div class="gallery">
+		<img src="/images/portfolio/crunch-culture/2.jpg" alt="">
+	</div>
+</div>
+<div class="responsive">
+	<div class="gallery">
+		<img src="/images/portfolio/crunch-culture/3.jpg" alt="">
+	</div>
+</div>
+<div class="responsive">
+	<div class="gallery">
+		<img src="/images/portfolio/crunch-culture/4.jpg" alt="">
+	</div>
+</div>
+
+<!--
 <div class="showcase">
   <img style="width:50%" src="/images/portfolio/crunch-culture/1.jpg" alt="">
   <img style="width:50%" src="/images/portfolio/crunch-culture/2.jpg" alt="">
   <img style="width:50%" src="/images/portfolio/crunch-culture/3.jpg" alt="">
   <img style="width:50%" src="/images/portfolio/crunch-culture/4.jpg" alt="">
 </div>
+-->
