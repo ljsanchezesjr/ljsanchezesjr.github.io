@@ -13,15 +13,17 @@ progress: 30
 
 <p>
 	Project started as a submission of the Itch.io: Community Game Jam (August 24th 2019 to August 31st 2019). Developed in Unity3D and later ported to Godot for learning reasons and a better working enviroment for 2D games.
-
+</p>
+<p>
 	Currently under development by a team of two programmers.
-
+</p>
+<p>
 	Itch.io entry: <a href="https://santimod.itch.io/crunch-culture" target="new_"> here </a>.
 </p>
 
 <div class="showcase">
-  <img style="width:50%" src="/images/portfolio/crunch-culture/1.png" alt="">
+  <img style="width:50%" src="/images/portfolio/crunch-culture/1.jpg" alt="">
   <img style="width:50%" src="/images/portfolio/crunch-culture/2.jpg" alt="">
-  <img style="width:50%" src="/images/portfolio/crunch-culture/3.png" alt="">
-  <img style="width:50%" src="/images/portfolio/crunch-culture/4.png" alt="">
+  <img style="width:50%" src="/images/portfolio/crunch-culture/3.jpg" alt="">
+  <img style="width:50%" src="/images/portfolio/crunch-culture/4.jpg" alt="">
 </div>
