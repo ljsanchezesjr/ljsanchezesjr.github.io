@@ -18,7 +18,7 @@ progress: 30
 	Currently under development by a team of two programmers.
 </p>
 <p>
-	Itch.io entry: <a href="https://santimod.itch.io/crunch-culture" target="new_"> here </a>.
+	Itch.io entry: <a href="https://santimod.itch.io/crunch-culture" target="new_"> here</a>.
 </p>
 
 <div class="responsive">
@@ -45,7 +45,7 @@ progress: 30
 <div class="clearfix"></div>
 
 <div class="showcase">
-  <img style="width:50%" src="/images/1.jpg" alt="">
+  <img style="width:50%" src="1.jpg" alt="">
 </div>
 
 <!--
