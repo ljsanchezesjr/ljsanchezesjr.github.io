@@ -42,6 +42,12 @@ progress: 30
 	</div>
 </div>
 
+<div class="clearfix"></div>
+
+<div class="showcase">
+  <img style="width:50%" src="/images/1.jpg" alt="">
+</div>
+
 <!--
 <div class="showcase">
   <img style="width:50%" src="/images/portfolio/crunch-culture/1.jpg" alt="">
