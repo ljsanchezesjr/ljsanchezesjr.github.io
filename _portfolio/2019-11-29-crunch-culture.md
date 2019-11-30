@@ -44,8 +44,10 @@ progress: 30
 
 <div class="clearfix"></div>
 
+<img width="854" height="480" src="1.jpg" alt="">
+
 <div class="showcase">
-  <img src="1.jpg" alt="">
+  <img width="854" height="480" src="1.jpg" alt="">
   <img src="https://github.com/ljsanchezesjr/ljsanchezesjr.github.io/blob/master/images/portfolio/crunch-culture/1.JPG">
 </div>
 
